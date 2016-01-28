@@ -23,10 +23,11 @@ print """
 <html>
   <head>
     <meta charset="utf-8">
+    <meta http-equiv="Refresh" content="1">
     <title>Camera</title>
   </head>
   <body>
-    <img src="/foo.jpg">
-  </body>
+    <div align = center><img src="/foo.jpg"></div>
+   </body>
 </html>
 """
